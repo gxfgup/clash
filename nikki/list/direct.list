@@ -1,5 +1,5 @@
 #本文件为需要直连的网站域名
-DOMAIN-SUFFIX,hdsky.me
+## DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,cloudflare.com
